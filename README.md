@@ -30,8 +30,5 @@ Breadboard
 
 Jumper Wires
 
-🔌 Circuit Diagram
+🔌 Circuit Diagram is found in this project repo
 
-The project is wired as shown below:
-
-Circuit.png
